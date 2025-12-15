@@ -1,0 +1,5 @@
+{
+    "workbench.settings.useSplitJSON": true,
+     "python.terminal.useEnvFile": true,
+    "python.envFile": "${workspaceFolder}/.env"
+}
